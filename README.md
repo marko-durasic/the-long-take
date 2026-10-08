@@ -2,7 +2,7 @@
 
 An independent review notebook by Marko. Film, TV, books, music and stage — not every reaction needs to be a 2,000-word essay.
 
-**Live site:** https://marko-durasic.github.io/the-long-take/
+**Live site:** https://www.markodurasic.com/the-long-take/
 
 ## Editing reviews
 
